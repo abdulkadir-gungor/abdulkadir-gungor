@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdulkadir-gungor
-- 👀 I’m interested in cyber security and data analysis
-- 🌱 I’m currently learning Python, C, Assembly, Linux Kernell
+- 👀 I’m interested in "cyber security" and "data analysis"
+- 🌱 I’m currently learning Assembly, C, Java, Python, Ruby, Matlab, Linux Kernell, Windows Kernel vb.
 - 💞️ I’m looking to collaborate on cyber security
 - 📫 How to reach me "abdulkadir_gungor@outlook.com"
 
