@@ -8,7 +8,7 @@
 Morpheus: "Let me tell you why you're here. You're here because you know something. What you know you can't explain, but you feel it."
 
 
-Some documents I have prepared can be accessed at the address "https://drive.google.com/drive/folders/1AAANN1BNvaOu3rdJ6nIcyXJ2fXl6bc1o?usp=sharing". However, the documents have been prepared in Turkish. [---Hazırladığım bazı dökümanlara "https://drive.google.com/drive/folders/1AAANN1BNvaOu3rdJ6nIcyXJ2fXl6bc1o?usp=sharing" adresinden ulaşılabilirsiniz.---]
+Some documents I have prepared can be accessed at the link "https://drive.google.com/drive/folders/1AAANN1BNvaOu3rdJ6nIcyXJ2fXl6bc1o?usp=sharing". However, the documents have been prepared in Turkish. [---Hazırladığım bazı dökümanlara "https://drive.google.com/drive/folders/1AAANN1BNvaOu3rdJ6nIcyXJ2fXl6bc1o?usp=sharing" adresinden ulaşılabilirsiniz.---]
 
 
 <!---
