@@ -72,7 +72,7 @@
 ### 📝 🇹🇷   Turkish Documents :
   &emsp;You can access some of the documents I have prepared from the link below.
   
-   &emsp;[Hazırladığım bazı dökümanlara aşağıdaki linkten ulaşabilirsiniz.]
+  &emsp;[Hazırladığım bazı dökümanlara aşağıdaki linkten ulaşabilirsiniz.]
    
    - Block Zinciri Teknolojisi
    - Malware Analizi: Örnek Bir Uygulama Geliştirmesi ve Değerlendirmesi
@@ -81,6 +81,8 @@
    - USB Belleğin FTK Imager Programı ile İncelenmesi
    - Veritabanı: MySQL Uygulaması
    - Yapay Zekanın Kullanım Alanları ve Geleceği
+   
+  &emsp; ***...***
    
   <div id="document_1">
     &emsp;
