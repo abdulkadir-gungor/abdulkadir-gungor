@@ -73,6 +73,15 @@
   &emsp;You can access some of the documents I have prepared from the link below.
   
    &emsp;[Hazırladığım bazı dökümanlara aşağıdaki linkten ulaşabilirsiniz.]
+   
+   - Block Zinciri Teknolojisi
+   - Malware Analizi: Örnek Bir Uygulama Geliştirmesi ve Değerlendirmesi
+   - Bir Siber Saldırı Senaryousu
+   - Snort Programı
+   - USB Belleğin FTK Imager Programı ile İncelenmesi
+   - Veritabanı: MySQL Uygulaması
+   - Yapay Zekanın Kullanım Alanları ve Geleceği
+   
   <div id="document_1">
     &emsp;
     <a href="https://drive.google.com/drive/folders/1AAANN1BNvaOu3rdJ6nIcyXJ2fXl6bc1o">
