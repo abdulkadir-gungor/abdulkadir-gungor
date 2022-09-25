@@ -1,7 +1,9 @@
 <div id="user" align="center">
   <br />
   <div id="user_icon">
+    <a href="#">
     <img src="coffee.webp" width="100"/>
+    </a>
   </div>
   <div id="user_name">  <b>@abdulkadir-gungor</b> </div>
   <br />
@@ -12,12 +14,14 @@
     <a href="https://www.youtube.com/channel/UCw8LW6znw5wYQsRP6tJrUpA">
       <img src="YouTube-red.svg" alt="Youtube Badge"/>
     </a>
-    <a href="https://github.com/abdulkadir-gungor">
+    <a href="#">
       <img src="LinkedIn-blue.svg" alt="LinkedIn Badge"/>
     </a>
   </div>
   <div id="user_views">
-    <img src="pv.svg" alt=""/>
+     <a href="#">
+      <img src="pv.svg" alt=""/>
+     </a>
   <div>
   <br />
 </div>
@@ -38,6 +42,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <a href="#">
   <img src="c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -60,13 +65,16 @@
   <img src="jetbrains-plain.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
   <img src="dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   <img src="arduino-original.svg" title="Ardunio" alt="Ardunio" width="40" height="40"/>&nbsp;
+  </a>
 </div>
   
 <br />  
 <br />
 
   <div id="statistics">
-    <img src="Statistics.svg" width="400" height="400"/>
+    <a href="#">
+      <img src="Statistics.svg" width="400" height="400"/>
+    </a>
   </div>
 
 <br />
@@ -108,5 +116,7 @@
 <br />
 
 <div id="bottom" align="center">
-  <img src="coder.webp" width="600" height="300"/>
+  <a href="#">
+    <img src="coder.webp" width="600" height="300"/>
+ </a>
 </div>
