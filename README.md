@@ -1,7 +1,7 @@
 <div id="user" align="center">
   <br />
   <div id="user_icon">
-    <a href="#">
+    <a href="">
     <img src="coffee.webp" width="100"/>
     </a>
   </div>
