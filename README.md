@@ -44,27 +44,69 @@
 <div>
   <a href="#">
   <img src="c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
   <img src="cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="android-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="git-original.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
-  <img src="visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="jetbrains-plain.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
-  <img src="dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-  <img src="arduino-original.svg" title="Ardunio" alt="Ardunio" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="android-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="git-original.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="jetbrains-plain.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="#">
+    <img src="arduino-original.svg" title="Ardunio" alt="Ardunio" width="40" height="40"/>&nbsp;
   </a>
 </div>
   
