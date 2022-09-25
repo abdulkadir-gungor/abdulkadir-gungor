@@ -2,7 +2,7 @@
   <br />
   <div id="user_icon">
     <a href="https://github.com/abdulkadir-gungor/">
-    <img src="coffee.webp" width="100"/>
+    <img src="coffee.gif" width="100"/>
     </a>
   </div>
   <div id="user_name">  <b>@abdulkadir-gungor</b> </div>
@@ -159,6 +159,6 @@
 
 <div id="bottom" align="center">
   <a href="https://github.com/abdulkadir-gungor/">
-    <img src="coder.webp" width="600" height="300"/>
+    <img src="coder.gif" width="600" height="300"/>
  </a>
 </div>
