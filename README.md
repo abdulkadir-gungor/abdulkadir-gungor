@@ -65,7 +65,7 @@
 <br />  
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadir-gungor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mytechnotalent)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
