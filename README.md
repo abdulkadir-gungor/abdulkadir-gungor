@@ -17,7 +17,7 @@
     </a>
   </div>
   <div id="user_views">
-    <img src="https://img.shields.io/badge/Profile views-999.999.999.999-blue?&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Profile views-978602324-blue?&logoColor=white" alt=""/>
   <div>
   <br />
 </div>
