@@ -122,7 +122,7 @@
 <br />
 
 ### 👏 Contributions to Cyber Security
-&emsp; Some of the cybersecurity vulnerabilities I reported
+&emsp; Some of the cybersecurity vulnerabilities I reported.
  - VULN-077956 ~~ Sept/2022 ~~ Microsoft Security Response Center ~~ Tampering/Bug/Security Feature Bypass
  - VULN-068278 ~~ May/2022  ~~ Microsoft Security Response Center ~~ Security Feature Bypass
  - Free book download vulnerability ~~ Apr/2021  ~~ packtpub.com 
