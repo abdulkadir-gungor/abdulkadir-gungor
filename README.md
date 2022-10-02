@@ -134,7 +134,6 @@
  - Web Panel Vulnerability ~~ Oct/2005 ~~ Balıkesir University ~~ Being an Admin without a password in the web panel
  
 <br />  
-<br />
 
 ### 📝 🇹🇷   Turkish Documents :
   &emsp;You can access some of the documents I have prepared from the link below.
