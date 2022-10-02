@@ -121,6 +121,21 @@
 
 <br />
 
+### 👏 Contributions to Cyber Security
+&emsp; Some of the cybersecurity vulnerabilities I reported
+ - VULN-077956 ~~ Sept/2022 ~~ Microsoft Security Response Center ~~ Tampering/Bug/Security Feature Bypass
+ - VULN-068278 ~~ May/2022  ~~ Microsoft Security Response Center ~~ Security Feature Bypass
+ - Free book download vulnerability ~~ Apr/2021  ~~ packtpub.com 
+ - Bluekeep vulnerability ~~ Oct/2019 ~~ alibaba.com
+ - Bluekeep vulnerability ~~ Oct/2019 ~~ amazon.com
+ 
+  &emsp; ***...***
+ 
+ - Web Panel Vulnerability ~~ Oct/2005 ~~ Balıkesir University ~~ Being an Admin without a password in the web panel
+ 
+<br />  
+<br />
+
 ### 📝 🇹🇷   Turkish Documents :
   &emsp;You can access some of the documents I have prepared from the link below.
   
