@@ -158,19 +158,6 @@
 <br />
 <br />
 
-### 📚 🇹🇷   Turkish Books :
-  - ISBN:9786254093784 ***"Linux İşletim Sisteminde Malware Analizi"*** [March/2021] &emsp; 
-    <a href="https://play.google.com/store/books/details/?id=GWMhEAAAQBAJ">
-      <img src="PDF-BUY-blue.svg" alt="Book"/>
-    </a>
-  - ISBN:9786250009277 ***"Windows İşletim Sistemlerinde Malware Analizi"*** [October/2022] &emsp; 
-    <a href="https://play.google.com/store/books/details?id=u0CLEAAAQBAJ">
-      <img src="DRM PDF-BUY-blue.svg" alt="Book"/>
-    </a>
-    
-<br />
-<br />
-
 <div id="bottom" align="center">
   <a href="https://github.com/abdulkadir-gungor/">
     <img src="coder.gif" width="600" height="300"/>
